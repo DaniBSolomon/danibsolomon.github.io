@@ -1,0 +1,18 @@
+<header>
+
+  <div class="left">
+    <h1><a href="/">{{ site.title }}</a></h1>
+    {% if site.tagline %}
+    <h2>{{ site.tagline }}</h2>
+    {% endif %}
+  </div>
+
+  {% if site.navpages %}
+  <nav>
+    {% for navpage in site.navpages %}
+    <a href="/{% if site.subdirectory %}{{ site.subdirectory }}/{% endif %}{{ navpage[1] }}/">{{ navpage[0] }}</a>
+    {% endfor %}
+  </nav>
+  {% endif %}
+
+</header>

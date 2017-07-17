@@ -1,0 +1,4 @@
+---
+collection: games
+layout: category
+---

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<main class="category">
+
+{% assign col = site[page.collection] %}
+{% assign name = page.collection | capitalize %}
+<h1 class="page-title">{{ name }}</h1>
+
+<div class="item-container">
+{% for post in col reversed %}
+
+  <div class="item" style="background-image: url('/img/{{ post.keyimage }}')">
+    <h2 class="item-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="new-tag">new</div>
+  </div>
+
+{% endfor %}
+</div>
+
+</main>

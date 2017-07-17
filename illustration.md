@@ -1,0 +1,4 @@
+---
+collection: illustration
+layout: category
+---

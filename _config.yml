@@ -1,20 +1,51 @@
 # Site settings
 title: My Little Website
-tagline: "Changing the world, one uninspired quote at a time"
-url: "http://yourwebsite.com" # The base hostname & protocol for your site. Use it if you need absolute URL's
-subdirectory: ""
+# tagline: "Hey look at this cool website"
+url: "http://yourwebsite.com"
+# subdirectory: ""
+
+# Pages
+# This is where you link to each page in your header
+
+permalink: /:collection/:name/
+
+navpages:
+  "About Me": "about"
+  "Another Link": "#!"
 
 # Social
 socialimg: /img/social.jpg # be sure to change this image
 facebook: fbusername
 twitter: twusername
-github: ghusername
-googleplus: gusername
 instagram: igusername
 
+collections:
+  illustration:
+    output: true
+    permalink: /:collection/:title/
+    name: Illustration
+    url: /illustration/
+  games:
+    output: true
+    permalink: /:collection/:title/
+    name: Games
+    url: /games/
+
+defaults:
+  - scope:
+      path: ""
+      type: illustration
+    values:
+      layout: gallery
+  - scope:
+      path: ""
+      type: games
+    values:
+      layout: project
+
 # Contact
-phone: "916-276-1044" # This is my real number. You should text me.
-email: "hello@garrettboatman.com" # This is my real email address. Please don't email me.
+phone: "###-###-####"
+email: "me@website.cool"
 
 # Use this for production
 #sass:
