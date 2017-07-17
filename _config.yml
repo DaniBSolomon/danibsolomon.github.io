@@ -2,7 +2,7 @@
 title: My Little Website
 # tagline: "Hey look at this cool website"
 url: "http://yourwebsite.com"
-# subdirectory: ""
+subdirectory: "danielle"
 
 # Pages
 # This is where you link to each page in your header

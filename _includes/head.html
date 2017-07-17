@@ -30,7 +30,7 @@
 	<meta name="twitter:url" content="{{site.url}}{{page.url}}">
 
 	<!-- CSS & fonts -->
-	<link rel="stylesheet" href="{{ site.subdirectory }}/css/app.css">
+	<link rel="stylesheet" href="{% if site.subdirectory %}/{{ site.subdirectory }}{% endif %}/css/app.css">
 	<!-- Put your fonts here -->
 
 </head>
