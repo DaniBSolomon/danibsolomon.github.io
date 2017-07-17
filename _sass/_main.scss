@@ -159,6 +159,8 @@ main {
 .keyimage {
   max-width: 100%;
   border-radius: $rounded-corner;
+  margin: auto;
+  display: block;
 }
 
 @media screen and (max-width: 639px) {
