@@ -5,7 +5,7 @@ layout: default
 <main class="project">
 
 {% if page.keyimage %}
-  <img class="keyimage" src="/img/{{ page.keyimage }}">
+  <img class="keyimage" src="{% if site.subdirectory %}/{{ site.subdirectory }}{% endif %}/img/{{ page.keyimage }}">
 {% endif %}
   <div class="content">
   {% if page.title %}
