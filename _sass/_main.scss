@@ -6,8 +6,10 @@
 body {
   background: $background-color;
   margin: 0;
-  font-family: sans-serif;
-  color: #222;
+  font-family: 'Rubik', sans-serif;
+
+
+  color: $text-color;
   width: 100%;
   max-width: 1200px;
   margin: auto;
