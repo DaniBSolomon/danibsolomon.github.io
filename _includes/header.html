@@ -1,7 +1,7 @@
 <header>
 
   <div class="left">
-    <h1><a href="{% if site.subdirectory %}/{{ site.subdirectory }}{% endif %}/">{{ site.title }}</a></h1>
+    <h1><a href="{{ site.github.url }}/">{{ site.title }}</a></h1>
     {% if site.tagline %}
     <h2>{{ site.tagline }}</h2>
     {% endif %}
@@ -13,7 +13,7 @@
     {% if navpage[1] contains "http" %}
     <a class="ext" href="{{ navpage[1] }}">{{ navpage[0] }}</a>
     {% else %}
-    <a class="int" href="{% if site.subdirectory %}/{{ site.subdirectory }}{% endif %}/{{ navpage[1] }}/">{{ navpage[0] }}</a>
+    <a class="int" href="{{ site.github.url }}/{{ navpage[1] }}/">{{ navpage[0] }}</a>
     {% endif %}
     {% endfor %}
   </nav>
