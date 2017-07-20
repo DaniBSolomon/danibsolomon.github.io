@@ -11,8 +11,8 @@ layout: default
 <div class="item-container">
 {% for post in col reversed %}
 
-  <div class="item" style="background-image: url('{% if site.subdirectory %}/{{ site.subdirectory }}{% endif %}/img/{{ post.keyimage }}')">
-    <h2 class="item-title"><a href="{% if site.subdirectory %}/{{ site.subdirectory }}{% endif %}{{ post.url }}">{{ post.title }}</a></h2>
+  <div class="item" style="background-image: url('{{ site.github.url }}/img/{{ post.keyimage }}')">
+    <h2 class="item-title"><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h2>
   </div>
 
 {% endfor %}

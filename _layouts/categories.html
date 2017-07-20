@@ -9,8 +9,8 @@ layout: default
     {% if collection.name %}
     {% assign col = collection.name | downcase %}
     {% assign posts = site[col] | reverse %}
-    <div class="item" style="background-image: url('{% if site.subdirectory %}/{{ site.subdirectory }}{% endif %}/img/{% for post in posts limit:1 %}{{ post.keyimage }}{% endfor %}')">
-      <h1 class="item-title"><a href="{% if site.subdirectory %}/{{ site.subdirectory }}{% endif %}{{ collection.url }}">{{ collection.name }}</a></h1>
+    <div class="item" style="background-image: url('{{ site.github.url }}/img/{% for post in posts limit:1 %}{{ post.keyimage }}{% endfor %}')">
+      <h1 class="item-title"><a href="{{ site.github.url }}{{ collection.url }}">{{ collection.name }}</a></h1>
     </div>
     {% endif %}
 
