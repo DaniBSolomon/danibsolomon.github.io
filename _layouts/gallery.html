@@ -5,7 +5,7 @@ layout: default
 <main class="gallery{% if page.fullwidth %} full-width{% endif %}">
   <h1>{{ page.title }}</h1>
   {% if page.keyimage %}
-  <img class="keyimage" src="{% if site.subdirectory %}/{{ site.subdirectory }}{% endif %}/img/{{ page.keyimage }}">
+  <img class="keyimage" src="{{ site.github.url }}/img/{{ page.keyimage }}">
   {% endif %}
   <div class="content">
 
