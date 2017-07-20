@@ -12,6 +12,7 @@ permalink: /:collection/:name/
 navpages:
   "About Me": "about"
   "Another Link": "#!"
+  "hey it's me!!": "https://nathanwentworth.co"
 
 # Social
 socialimg: /img/social.jpg # be sure to change this image

@@ -10,7 +10,11 @@
   {% if site.navpages %}
   <nav>
     {% for navpage in site.navpages %}
-    <a href="{% if site.subdirectory %}/{{ site.subdirectory }}{% endif %}/{{ navpage[1] }}/">{{ navpage[0] }}</a>
+    {% if navpage[1] contains "http" %}
+    <a class="ext" href="{{ navpage[1] }}">{{ navpage[0] }}</a>
+    {% else %}
+    <a class="int" href="{% if site.subdirectory %}/{{ site.subdirectory }}{% endif %}/{{ navpage[1] }}/">{{ navpage[0] }}</a>
+    {% endif %}
     {% endfor %}
   </nav>
   {% endif %}
