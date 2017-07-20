@@ -15,9 +15,6 @@ navpages:
 
 # Social
 socialimg: /img/social.jpg # be sure to change this image
-facebook: fbusername
-twitter: twusername
-instagram: igusername
 
 collections:
   illustration:
@@ -42,10 +39,6 @@ defaults:
       type: games
     values:
       layout: project
-
-# Contact
-phone: "###-###-####"
-email: "me@website.cool"
 
 # Use this for production
 #sass:

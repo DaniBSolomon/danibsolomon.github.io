@@ -1,6 +1,6 @@
 ---
 title: Oh Hey Another Game With A Really Long Title!!!!!
-keyimage: IMG_0082.jpg
+image: IMG_0082.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

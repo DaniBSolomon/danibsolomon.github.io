@@ -1,7 +1,7 @@
 ---
 collection: illustration
 title: Illustration
-keyimage: 59255207_p0.jpg
+image: 59255207_p0.jpg
 layout: gallery
 ---
 
