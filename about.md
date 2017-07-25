@@ -12,3 +12,7 @@ Find me on:
 I enjoy writing, especially blog posts for Geeks OUT! that can be found [here](http://geeksout.org/members/danielle-solomon). In my free time I love singing and playing the ukulele.
 
 If you are interested in hiring me or if you have any questions, please contact me through email at dani.b.solomon@gmail.com.
+
+
+
+Website layout created by [Nathan Wentworth](https://nathanwentworth.co).
