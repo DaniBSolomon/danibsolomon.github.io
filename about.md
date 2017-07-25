@@ -3,9 +3,6 @@ layout: project
 title: About Me
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My name is Danielle Solomon. I specialize in concept art, character design, and illustration. I enjoy writing, especially blog posts for Geeks OUT! that can be found here. In my free time I love singing and playing the ukulele.
+
+If you are interested in hiring me or if you have any questions, please contact me through email at dani.b.solomon@gmail.com.
