@@ -10,6 +10,9 @@ permalink: /:collection/:name/
 
 navpages:
   "About Me": "about"
+  "Illustration": "illustration"
+  "Games": "games"
+  "Twitter": "https://twitter.com/DaniBSolomon"
   "Another Link": "#!"
   "hey it's me!!": "https://nathanwentworth.co"
 
