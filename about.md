@@ -8,6 +8,8 @@ My name is Dani Solomon. I specialize in concept art, character design, and illu
 Find me on:
 - [Twitter](https://twitter.com/DaniBSolomon)
 - [Tumblr](http://danibsolomon.tumblr.com/)
+- [LinkedIn](https://www.linkedin.com/in/danibsolomon/)
+- [Trello](https://trello.com/danibsolomon)
 
 I enjoy writing, especially blog posts for Geeks OUT! that can be found [here](http://geeksout.org/members/danielle-solomon). In my free time I love singing and playing the ukulele.
 
