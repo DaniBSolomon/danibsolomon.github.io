@@ -3,7 +3,7 @@ layout: project
 title: About Me
 ---
 
-I'm a Massachussets-based concept artist, character designer, and illustrator. I graduated from Fitchburg State University with a Bachelor of Arts in Game Design and a Minor in Studio Art.
+I'm a Massachusetts-based concept artist, character designer, and illustrator. I graduated from Fitchburg State University with a Bachelor of Arts in Game Design and a Minor in Studio Art.
 
 Find me on:
 - [Twitter](https://twitter.com/DaniBSolomon)
