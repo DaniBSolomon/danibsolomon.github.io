@@ -4,7 +4,7 @@ image: yw_main_character.png
 fullwidth: false
 ---
 
-Young Witch was a game concept created for my Honors Thesis at Fitchburg State University. It was developed over the span of two semesters, Spring 2016 and Fall 2016. My intention with the project was to create an Art Bible for the game, not the full game itself, since I wanted to focus on my skills in character design and project organization.
+Young Witch is a game concept created for my Honors Thesis at Fitchburg State University. It was developed over the span of two semesters, Spring 2016 and Fall 2016. My intention with the project was to create an Art Bible for the game, not the full game itself, since I wanted to focus on my skills in character design and project organization.
 
 Marian, the Main Character: ![cool game]({{ site.github.url }}/img/yw_main_character.png)
 
