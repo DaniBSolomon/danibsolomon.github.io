@@ -16,5 +16,6 @@ Arcade Cabinet References:
 
 
 UI for the Arcade Cabinet Controller Instructions:
+(Teams filled in the blanks with the specific control scheme for their game.)
 
 ![cool game]({{ site.github.url }}/img/ac_controller_map_p1only.png) ![cool game]({{ site.github.url }}/img/ac_controller_map_p1p2.png)
