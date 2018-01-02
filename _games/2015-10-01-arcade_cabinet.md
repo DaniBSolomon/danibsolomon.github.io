@@ -1,0 +1,1 @@
+The Fitchburg State University Game Design Arcade Cabinet was a project that was completed for a college class. Myself and one other student created the UI for the cabinet, I did the art and UI design and he did the programming.
