@@ -11,7 +11,7 @@ You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/danibsolomon/)
 - [Trello](https://trello.com/danibsolomon)
 
-I also enjoy writing, especially blog posts for Geeks OUT! that can be found [here](http://geeksout.org/members/danielle-solomon). In my free time I love playing rhythm/music games, singing, and learning songs on my ukulele.
+In my free time I love playing rhythm/music games, singing, and learning songs on my ukulele.
 
 If you have any questions or are interested in hiring me, please contact me through my email, dani.b.solomon@gmail.com.
 
