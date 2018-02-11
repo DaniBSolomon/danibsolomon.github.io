@@ -45,6 +45,11 @@ defaults:
       type: games
     values:
       layout: project
+  - scope:
+      path: ""
+      type: voiceacting
+    values:
+      layout: project
 
 # Use this for production
 #sass:
