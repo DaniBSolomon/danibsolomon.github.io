@@ -1,7 +1,7 @@
 ---
 collection: illustration
 title: Illustration
-image: illustration_zuriel.png
+image: 
 layout: gallery
 ---
 
