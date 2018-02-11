@@ -5,7 +5,8 @@ image:
 layout: gallery
 ---
 
-Character design:
+Character Design:
+
 
 ![cool game]({{ site.github.url }}/img/illustration_zuriel.png)
 
