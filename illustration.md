@@ -19,9 +19,9 @@ Character Design:
 
 Comic Art:
 
-![cool game]({{ site.github.url }}/img/IMG_0811.jpg)
+![cool game]({{ site.github.url }}/img/comic_JPpg1.png)
 
-![cool game]({{ site.github.url }}/img/IMG_0811.jpg)
+![cool game]({{ site.github.url }}/img/comic_JPpg2.png)
 
 Life Drawing:
 
