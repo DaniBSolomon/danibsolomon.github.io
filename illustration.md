@@ -5,7 +5,7 @@ image:
 layout: gallery
 ---
 
-Character Design:  
+Digital Painting:  
 ![cool game]({{ site.github.url }}/img/illustration_zuriel.png)
 
 ![cool game]({{ site.github.url }}/img/illustration_dhfg.png)
