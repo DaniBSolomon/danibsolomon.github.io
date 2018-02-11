@@ -4,8 +4,7 @@ title: Illustration
 image: 
 layout: gallery
 ---
-
-Digital Painting:  
+<p align="center">Digital Painting:</p>  
 ![cool game]({{ site.github.url }}/img/illustration_zuriel.png)
 
 ![cool game]({{ site.github.url }}/img/illustration_dhfg.png)
