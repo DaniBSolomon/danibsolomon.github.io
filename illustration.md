@@ -1,7 +1,7 @@
 ---
 collection: illustration
 title: Illustration
-image: 59255207_p0.jpg
+image: illustration_zuriel.png
 layout: gallery
 ---
 
