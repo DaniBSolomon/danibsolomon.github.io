@@ -28,6 +28,11 @@ collections:
     permalink: /:collection/:title/
     name: Games
     url: /games/
+   voiceacting:
+    output: true
+    permalink: /:collection/:title/
+    name: Voice Acting
+    url: /voiceacting/
 
 defaults:
   - scope:
