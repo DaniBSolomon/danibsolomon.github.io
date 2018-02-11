@@ -5,7 +5,7 @@ image:
 layout: gallery
 ---
 
-Character Design:
+Character Design:  
 
 ![cool game]({{ site.github.url }}/img/illustration_zuriel.png)
 
@@ -17,13 +17,13 @@ Character Design:
 
 ![cool game]({{ site.github.url }}/img/illustration_cynebald.png)
 
-Comic Art:
+Comic Art:  
 
 ![cool game]({{ site.github.url }}/img/comic_JPpg1.png)
 
 ![cool game]({{ site.github.url }}/img/comic_JPpg2.png)
 
-Life Drawing:
+Life Drawing:  
 
 ![cool game]({{ site.github.url }}/img/59255207_p0.jpg)
 
