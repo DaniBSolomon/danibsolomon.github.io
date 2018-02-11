@@ -14,7 +14,9 @@ Character Design:
 
 ![cool game]({{ site.github.url }}/img/illustration_chase.png)
 
-![cool game]({{ site.github.url }}/img/illustration_cynebald.png)  
+![cool game]({{ site.github.url }}/img/illustration_cynebald.png)
+
+![cool game]({{ site.github.url }}/img/illustration_scf.png)  
 
 
 Comic Art:  
