@@ -25,16 +25,16 @@ Comic Art:
 
 
 Life Drawing:  
-![cool game]({{ site.github.url }}/img/59255207_p0.jpg)
+![cool game]({{ site.github.url }}/img/life_self2.jpg)
 
-![cool game]({{ site.github.url }}/img/C1CVfYDUcAAByCb.jpg)
+![cool game]({{ site.github.url }}/img/life_back.jpg)
 
-![cool game]({{ site.github.url }}/img/AfJ4lN7CIAA2oGY.jpg)
+![cool game]({{ site.github.url }}/img/life_chest.jpg)
 
-![cool game]({{ site.github.url }}/img/IMG_0811.jpg)
+![cool game]({{ site.github.url }}/img/life_face.jpg)
 
-![cool game]({{ site.github.url }}/img/Pasted Graphic 36.jpeg)
+![cool game]({{ site.github.url }}/img/life_sitting.jpg)
 
-![cool game]({{ site.github.url }}/img/Pasted Graphic 51.jpeg)
+![cool game]({{ site.github.url }}/img/life_sittingcolor.jpg)
 
-![cool game]({{ site.github.url }}/img/Pasted Graphic 51.jpeg)
+![cool game]({{ site.github.url }}/img/life_standingcolor.jpg)
