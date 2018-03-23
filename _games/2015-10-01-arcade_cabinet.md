@@ -8,19 +8,19 @@ I created a user interface for the Fitchburg State University Game Design Studen
 
 Idle Screen:
 
-![cool game]({{ site.github.url }}/img/ac_gif_idle.gif)
+![idle screen]({{ site.github.url }}/img/ac_gif_idle.gif)
 
 Game Selection Screen:
 
-![cool game]({{ site.github.url }}/img/ac_gif_selection.gif)
+![selection screen]({{ site.github.url }}/img/ac_gif_selection.gif)
 
 UI for the Arcade Cabinet Controller Instructions:
 
 (Teams filled in the blanks with the specific control scheme for their game.)
-![cool game]({{ site.github.url }}/img/ac_controller_map_p1only.png) ![cool game]({{ site.github.url }}/img/ac_controller_map_p1p2.png)
+![controller map one player]({{ site.github.url }}/img/ac_controller_map_p1only.png) ![controller map two players]({{ site.github.url }}/img/ac_controller_map_p1p2.png)
 
 Arcade Cabinet References:
 
-![cool game]({{ site.github.url }}/img/ac_ref1.jpg)
-![cool game]({{ site.github.url }}/img/ac_ref2.jpg)
-![cool game]({{ site.github.url }}/img/ac_ref3.jpg)
+![cabinet reference]({{ site.github.url }}/img/ac_ref1.jpg)
+![cabinet reference]({{ site.github.url }}/img/ac_ref2.jpg)
+![cabinet reference]({{ site.github.url }}/img/ac_ref3.jpg)
