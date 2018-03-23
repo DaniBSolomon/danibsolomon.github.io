@@ -5,36 +5,36 @@ image:
 layout: gallery
 ---
 Digital Painting:  
-![cool game]({{ site.github.url }}/img/illustration_zuriel.png)
+![Zuriel]({{ site.github.url }}/img/illustration_zuriel.png)
 
-![cool game]({{ site.github.url }}/img/illustration_dhfg.png)
+![Devil Hand Flower Girl]({{ site.github.url }}/img/illustration_dhfg.png)
 
-![cool game]({{ site.github.url }}/img/illustration_xander.png)
+![Xander]({{ site.github.url }}/img/illustration_xander.png)
 
-![cool game]({{ site.github.url }}/img/illustration_chase.png)
+![Chase]({{ site.github.url }}/img/illustration_chase.png)
 
-![cool game]({{ site.github.url }}/img/illustration_cynebald.png)
+![Cynebald]({{ site.github.url }}/img/illustration_cynebald.png)
 
-![cool game]({{ site.github.url }}/img/illustration_scf.png)  
+![Frappuccino]({{ site.github.url }}/img/illustration_scf.png)  
 
 
 Comic Art:  
-![cool game]({{ site.github.url }}/img/comic_JPpg1.png)
+![Japan Comic Page 1]({{ site.github.url }}/img/comic_JPpg1.png)
 
-![cool game]({{ site.github.url }}/img/comic_JPpg2.png)  
+![Japan Comic Page 2]({{ site.github.url }}/img/comic_JPpg2.png)  
 
 
 Life Drawing:  
-![cool game]({{ site.github.url }}/img/life_self2.jpg)
+![Self Portrait]({{ site.github.url }}/img/life_self2.jpg)
 
-![cool game]({{ site.github.url }}/img/life_back.jpg)
+![Back Study]({{ site.github.url }}/img/life_back.jpg)
 
-![cool game]({{ site.github.url }}/img/life_chest.jpg)
+![Chest Study]({{ site.github.url }}/img/life_chest.jpg)
 
-![cool game]({{ site.github.url }}/img/life_face.jpg)
+![Face Study]({{ site.github.url }}/img/life_face.jpg)
 
-![cool game]({{ site.github.url }}/img/life_sitting.jpg)
+![Sitting Study]({{ site.github.url }}/img/life_sitting.jpg)
 
-![cool game]({{ site.github.url }}/img/life_sittingcolor.jpg)
+![Sitting Study 2]({{ site.github.url }}/img/life_sittingcolor.jpg)
 
-![cool game]({{ site.github.url }}/img/life_standingcolor.jpg)
+![Standing Study]({{ site.github.url }}/img/life_standingcolor.jpg)
