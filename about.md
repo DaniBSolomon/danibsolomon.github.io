@@ -3,6 +3,8 @@ layout: project
 title: About Me
 ---
 
+![cool game]({{ site.github.url }}/img/selfie_cat.jpg)
+
 I'm a Massachusetts-based concept artist, character designer, and illustrator. I graduated from Fitchburg State University in 2017 with a Bachelor of Science in Game Design and a Minor in Studio Art.
 
 You can find me on:
