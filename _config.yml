@@ -21,7 +21,7 @@ collections:
   illustration:
     output: true
     permalink: /:collection/:title/
-    name: Illustration
+    name: Illustrations
     url: /illustration/
   games:
     output: true
