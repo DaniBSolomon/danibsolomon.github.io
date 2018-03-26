@@ -5,6 +5,7 @@ image:
 layout: gallery
 ---
 <center>Digital Painting:  </center>
+
 ![Zuriel]({{ site.github.url }}/img/illustration_zuriel.png)
 
 ![Devil Hand Flower Girl]({{ site.github.url }}/img/illustration_dhfg.png)
