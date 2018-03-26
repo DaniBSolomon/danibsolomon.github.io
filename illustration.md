@@ -19,13 +19,15 @@ layout: gallery
 ![Frappuccino]({{ site.github.url }}/img/illustration_scf.png)  
 
 
-Comic Art:  
+<div align="center">Comic Art:</div>
+
 ![Japan Comic Page 1]({{ site.github.url }}/img/comic_JPpg1.png)
 
 ![Japan Comic Page 2]({{ site.github.url }}/img/comic_JPpg2.png)  
 
 
-Life Drawing:  
+<div align="center">Life Drawing:</div>
+
 ![Self Portrait]({{ site.github.url }}/img/life_self2.jpg)
 
 ![Back Study]({{ site.github.url }}/img/life_back.jpg)
