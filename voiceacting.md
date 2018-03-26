@@ -2,7 +2,7 @@
 layout: project
 title: Voice Acting
 ---
-2018
+<b>2018</b>
 
 Voice over of the Announcement Trailer for [A Purrtato Tail - By the Light of the Elderstar](https://twitter.com/PurrtatoTail)
 ([DrunkRobot Games](https://twitter.com/DrunkRobotGames), [RedVonix](https://twitter.com/RedVonix))
