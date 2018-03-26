@@ -1,6 +1,6 @@
 ---
 collection: illustration
-title: Illustration
+title: Illustrations
 image: 
 layout: gallery
 ---
