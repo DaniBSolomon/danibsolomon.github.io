@@ -4,7 +4,7 @@ title: Illustrations
 image: 
 layout: gallery
 ---
-<div align="center"><b>Digital Painting:</b></div><br/>
+<b>Digital Painting:</b><br/>
 
 ![Zuriel]({{ site.github.url }}/img/illustration_zuriel.png)
 
