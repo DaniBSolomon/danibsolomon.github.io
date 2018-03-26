@@ -1,5 +1,5 @@
 ---
-title: FSU Game Design Student Projects Arcade Cabinet
+title: FSU Student Projects Arcade Cabinet
 image: ac_ref2.jpg
 fullwidth: false
 ---
