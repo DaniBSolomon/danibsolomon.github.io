@@ -1,10 +1,10 @@
 ---
 collection: illustration
-title: Illustrations
+title: Illustration
 image: 
 layout: gallery
 ---
-<b>Digital Painting:</b>
+<div align="center"><b>Digital Painting:</b></div><br/>
 
 ![Zuriel]({{ site.github.url }}/img/illustration_zuriel.png)
 
@@ -19,14 +19,14 @@ layout: gallery
 ![Frappuccino]({{ site.github.url }}/img/illustration_scf.png)  
 
 
-<div align="center">Comic Art:</div><br/>
+<div align="center"><b>Comic Art:</b></div><br/>
 
 ![Japan Comic Page 1]({{ site.github.url }}/img/comic_JPpg1.png)
 
 ![Japan Comic Page 2]({{ site.github.url }}/img/comic_JPpg2.png)  
 
 
-<div align="center">Life Drawing:</div><br/>
+<div align="center"><b>Life Drawing:</b></div><br/>
 
 ![Self Portrait]({{ site.github.url }}/img/life_self2.jpg)
 
