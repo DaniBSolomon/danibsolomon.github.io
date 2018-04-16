@@ -4,7 +4,7 @@ title: Voice Acting
 ---
 <b>2018</b>
 
-Titania in [Obsolete Souls](https://twitter.com/ObsoleteSouls?lang=en) (Fall 2018 Release)
+Titania in [Obsolete Souls](https://twitter.com/ObsoleteSouls?lang=en) (Fall 2018 Release)  
 [Dennel Cake, LLC.](https://www.dennelcake.com/)
 
 Voice over of the Announcement Trailer for [A Purrtato Tail - By the Light of the Elderstar](https://twitter.com/PurrtatoTail)
