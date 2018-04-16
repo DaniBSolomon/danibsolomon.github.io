@@ -13,7 +13,7 @@ You can find me on:
 - [Twitter](https://twitter.com/DaniBSolomon)
 - [LinkedIn](https://www.linkedin.com/in/danibsolomon/)
 
-In my free time I love playing rhythm/music games, singing, learning songs on my ukulele, and reading Tarot and Oracle cards.
+In my free time I love playing video games (especially rhythm/music games), singing, learning songs on my ukulele, and reading tarot and oracle cards.
 
 If you have any questions or are interested in hiring me, please contact me through my email, dani.b.solomon@gmail.com.
 
