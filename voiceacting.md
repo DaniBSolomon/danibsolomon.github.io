@@ -9,3 +9,6 @@ Voice over of the Announcement Trailer for [A Purrtato Tail - By the Light of th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/67-0QfbQ8tI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<b>2017<b>
+Titania in [Obsolete Souls](https://twitter.com/ObsoleteSouls?lang=en) (Fall 2018 Release)
+[Dennel Cake, LLC.](https://www.dennelcake.com/)
