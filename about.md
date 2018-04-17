@@ -5,9 +5,9 @@ title: About Me
 
 ![cool game]({{ site.github.url }}/img/selfie_cat.jpg)
 
-I'm a concept artist, character designer, and illustrator from Massachussets.
+I'm a 2D Artist and Game Developer from Massachussets. I specialize in concept art, character design, and illustration.
 
-I graduated from Fitchburg State University in 2017 with a Bachelor of Science in Game Design and a Minor in Studio Art.
+I graduated from Fitchburg State University in 2017 with a B.S. in Game Design and a Minor in Studio Art.
 
 You can find me on:
 - [Twitter](https://twitter.com/DaniBSolomon)
