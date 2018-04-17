@@ -33,9 +33,11 @@ layout: gallery
 
 ![Chell]({{ site.github.url }}/img/fanart_mgchell.png)
 
-![Taako]({{ site.github.url }}/img/fanart_taako.png)  
+![Taako]({{ site.github.url }}/img/fanart_taako.png)
 
-  
+![Alphonse]({{ site.github.url }}/img/fanart_alphonse.png)  
+
+
 <div align="center"><b>Comic Art:</b></div><br/>
 
 ![Japan Comic Page 1]({{ site.github.url }}/img/comic_JPpg1.png)
