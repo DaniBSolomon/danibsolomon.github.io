@@ -12,9 +12,9 @@ layout: gallery
 
 ![Xander]({{ site.github.url }}/img/illustration_xander.png)
 
-![Chase]({{ site.github.url }}/img/illustration_chase.png)
-
 ![Cynebald]({{ site.github.url }}/img/illustration_cynebald.png)
+
+![Chase]({{ site.github.url }}/img/illustration_chase.png)
 
 ![Frappuccino]({{ site.github.url }}/img/illustration_scf.png)  
 
