@@ -19,6 +19,23 @@ layout: gallery
 ![Frappuccino]({{ site.github.url }}/img/illustration_scf.png)  
 
 
+<div align="center"><b>Fanart:</b></div><br/>
+
+![Yuki]({{ site.github.url }}/img/fanart_yuki.png)
+
+![Mew Ichigo]({{ site.github.url }}/img/fanart_ichigo.png)
+
+![Chell]({{ site.github.url }}/img/fanart_mgchell.png)
+
+![Lapis Lazuli]({{ site.github.url }}/img/fanart_lapis.png)
+
+![Rose Quartz]({{ site.github.url }}/img/fanart_roseq.png)
+
+![Steven Universe]({{ site.github.url }}/img/fanart_suheavystones.png)
+
+![Taako]({{ site.github.url }}/img/fanart_taako.png)  
+
+
 <div align="center"><b>Comic Art:</b></div><br/>
 
 ![Japan Comic Page 1]({{ site.github.url }}/img/comic_JPpg1.png)
