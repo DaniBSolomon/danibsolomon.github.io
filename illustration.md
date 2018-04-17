@@ -14,9 +14,9 @@ layout: gallery
 
 ![Cynebald]({{ site.github.url }}/img/illustration_cynebald.png)
 
-![Chase]({{ site.github.url }}/img/illustration_chase.png)
+![Frappuccino]({{ site.github.url }}/img/illustration_scf.png)
 
-![Frappuccino]({{ site.github.url }}/img/illustration_scf.png)  
+![Chase]({{ site.github.url }}/img/illustration_chase.png)  
 
 
 <div align="center"><b>Fanart:</b></div><br/>
