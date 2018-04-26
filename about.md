@@ -9,6 +9,8 @@ I'm a 2D Artist and Game Developer from Massachussets. I specialize in concept a
 
 I graduated from Fitchburg State University in 2017 with a B.S. in Game Design and a Minor in Studio Art.
 
+My resume is linked [here](https://www.dropbox.com/s/9txvnm8y54yd7hw/Dani%20Solomon%20Resume.pdf?dl=0)!
+
 You can find me on:
 - [Twitter](https://twitter.com/DaniBSolomon)
 - [LinkedIn](https://www.linkedin.com/in/danibsolomon/)
