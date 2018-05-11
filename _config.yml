@@ -10,36 +10,36 @@ permalink: /:collection/:name/
 
 navpages:
   "About Me": "about"
-  "Illustration": "illustration"
   "Games": "games"
+  "Illustration": "illustration"
   "Voice Acting": "voiceacting"
 
 # Social
 socialimg: /img/hbkj_snapper_v2.png
 
 collections:
-  illustration:
-    output: true
-    permalink: /:collection/:title/
-    name: Illustration
-    url: /illustration/
   games:
     output: true
     permalink: /:collection/:title/
     name: Games
     url: /games/
+  illustration:
+    output: true
+    permalink: /:collection/:title/
+    name: Illustration
+    url: /illustration/
 
 defaults:
-  - scope:
-      path: ""
-      type: illustration
-    values:
-      layout: gallery
   - scope:
       path: ""
       type: games
     values:
       layout: project
+  - scope:
+      path: ""
+      type: illustration
+    values:
+      layout: gallery
 
 # Use this for production
 #sass:
