@@ -4,7 +4,7 @@ layout: default
 
 <main class="home">
 
-  {% for collection in site.collections reversed %}
+  {% for collection in site.collections %}
 
     {% if collection.name %}
     {% assign col = collection.name | downcase %}
