@@ -10,8 +10,8 @@ permalink: /:collection/:name/
 
 navpages:
   "About Me": "about"
-  "Illustration": "illustration"
   "Games": "games"
+  "Illustration": "illustration"
   "Voice Acting": "voiceacting"
 
 # Social
