@@ -29,13 +29,13 @@ layout: gallery
 
 ![Alphonse]({{ site.github.url }}/img/fanart_alphonse.png)
 
+![Matryoshka Miku]({{ site.github.url }}/img/fanart_mmiku.png)
+
+![Matryoshka Gumi]({{ site.github.url }}/img/fanart_mgumi.png)
+
 ![Lapis Lazuli]({{ site.github.url }}/img/fanart_lapis.png)
 
-![Rose Quartz]({{ site.github.url }}/img/fanart_roseq.png)
-
-![Steven Universe]({{ site.github.url }}/img/fanart_suheavystones.png)
-
-![Chell]({{ site.github.url }}/img/fanart_mgchell.png)  
+![Rose Quartz]({{ site.github.url }}/img/fanart_roseq.png)  
 
 
 <div align="center"><b>Comic Art:</b></div><br/>
