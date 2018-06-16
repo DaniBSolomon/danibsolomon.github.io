@@ -25,9 +25,9 @@ layout: gallery
 
 ![Taako]({{ site.github.url }}/img/fanart_taako.png)
 
-![Alphonse]({{ site.github.url }}/img/fanart_alphonse.png)
-
 ![Mew Ichigo]({{ site.github.url }}/img/fanart_ichigo.png)
+
+![Alphonse]({{ site.github.url }}/img/fanart_alphonse.png)
 
 ![Lapis Lazuli]({{ site.github.url }}/img/fanart_lapis.png)
 
