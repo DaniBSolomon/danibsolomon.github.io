@@ -23,6 +23,10 @@ layout: gallery
 
 ![Yuki]({{ site.github.url }}/img/fanart_yuki.png)
 
+![Taako]({{ site.github.url }}/img/fanart_taako.png)
+
+![Alphonse]({{ site.github.url }}/img/fanart_alphonse.png)
+
 ![Mew Ichigo]({{ site.github.url }}/img/fanart_ichigo.png)
 
 ![Lapis Lazuli]({{ site.github.url }}/img/fanart_lapis.png)
@@ -31,11 +35,7 @@ layout: gallery
 
 ![Steven Universe]({{ site.github.url }}/img/fanart_suheavystones.png)
 
-![Chell]({{ site.github.url }}/img/fanart_mgchell.png)
-
-![Taako]({{ site.github.url }}/img/fanart_taako.png)
-
-![Alphonse]({{ site.github.url }}/img/fanart_alphonse.png)  
+![Chell]({{ site.github.url }}/img/fanart_mgchell.png)  
 
 
 <div align="center"><b>Comic Art:</b></div><br/>
@@ -52,8 +52,6 @@ layout: gallery
 ![Back Study]({{ site.github.url }}/img/life_back.jpg)
 
 ![Chest Study]({{ site.github.url }}/img/life_chest.jpg)
-
-![Face Study]({{ site.github.url }}/img/life_face.jpg)
 
 ![Sitting Study]({{ site.github.url }}/img/life_sitting.jpg)
 
