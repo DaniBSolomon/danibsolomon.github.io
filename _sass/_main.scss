@@ -20,7 +20,7 @@ a {
 }
 
 a:link, a:visited { color: $link-color; }
-a:hover, a:active { color: lighten($link-color, 20%); }
+a:hover, a:active { color: darken($link-color, 20%); }
 
 
 header {
