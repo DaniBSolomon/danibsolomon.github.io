@@ -3,7 +3,7 @@ layout: project
 title: About Me
 ---
 
-![cool game]({{ site.github.url }}/img/self_portrait_2018.jfif)
+![cool game]({{ site.github.url }}/img/self_portrait_2018.jfif =250x)
 
 I'm a Game Developer and 2D Artist from Massachusetts. I specialize in concept art, character design, and illustration.
 
